@@ -18,6 +18,7 @@ public class JavaApplication1 {
         // TODO code application logic here
         System.out.println("vvvv");
         System.out.println("vvvv whyyyy");
+        System.out.println("why i can't open java1");
     }
     
 }
